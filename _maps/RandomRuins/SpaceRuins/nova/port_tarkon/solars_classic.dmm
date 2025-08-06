@@ -1,0 +1,39 @@
+"a" = (/obj/structure/cable,/obj/machinery/power/solar,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
+"c" = (/obj/structure/lattice/catwalk,/turf/open/space/basic,/area/solars/tarkon)
+"d" = (/obj/structure/lattice/catwalk,/turf/open/space,/area/solars/tarkon)
+"e" = (/obj/structure/cable,/obj/modular_map_connector,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
+"f" = (/obj/structure/cable,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
+"g" = (/obj/machinery/power/tracker,/obj/structure/cable,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
+"h" = (/obj/structure/lattice,/mob/living/basic/carp,/turf/open/space/basic,/area/solars/tarkon)
+"i" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/turf/open/space,/area/solars/tarkon)
+"j" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/mob/living/basic/carp,/turf/open/space/basic,/area/solars/tarkon)
+"t" = (/turf/template_noop,/area/template_noop)
+"w" = (/obj/item/solar_assembly,/obj/structure/cable,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
+"C" = (/obj/structure/lattice,/obj/item/stack/cable_coil/thirty,/turf/open/space/basic,/area/solars/tarkon)
+"F" = (/obj/structure/lattice,/turf/open/space/basic,/area/solars/tarkon)
+"L" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/turf/open/space/basic,/area/solars/tarkon)
+"R" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/obj/item/stack/cable_coil/five,/turf/open/space/basic,/area/solars/tarkon)
+"T" = (/obj/structure/lattice,/turf/open/space,/area/solars/tarkon)
+"W" = (/obj/structure/lattice/catwalk,/obj/item/stack/cable_coil/five,/turf/open/space/basic,/area/solars/tarkon)
+
+(1,1,1) = {"
+tttttatttgtttwttttt
+ttttaLaFFLFFwcwtttt
+ttttajattLttwLwtttt
+ttaaacaaTLTwwLwwwtt
+taLLLWcddcddcLLLcwt
+ttaaacawFcTwwWwwwtt
+ttFtacatacftwcwtFtt
+ttFtFcataWftwcFtFtt
+tffffcFFacfFFcaaaat
+ecWLLLcccLcccLRLLca
+taaaaLFFfLaFFcaaaat
+ttFtFcftfcatfcFtFtt
+ttFtaLftfcatfLfthtt
+ttaaacffTLTffLffftt
+tacLcccddLidcccLLft
+ttfffcaaTLTffLffftt
+ttttfLattcttfLftttt
+ttttfLaFCLFFfcftttt
+tttttftttLtttfttttt
+"}

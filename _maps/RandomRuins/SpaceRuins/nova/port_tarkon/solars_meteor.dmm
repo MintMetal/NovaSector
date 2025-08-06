@@ -1,0 +1,40 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/obj/structure/cable,/obj/modular_map_connector,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
+"c" = (/obj/structure/cable,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
+"j" = (/obj/effect/turf_decal/sand/plating,/obj/structure/cable,/turf/open/floor/plating,/area/ruin/space/has_grav)
+"k" = (/obj/structure/lattice/catwalk,/obj/item/stack/cable_coil/thirty,/turf/open/space/basic,/area/solars/tarkon)
+"l" = (/obj/machinery/power/tracker,/obj/structure/cable,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
+"m" = (/obj/structure/lattice,/obj/item/stack/cable_coil/thirty,/turf/open/space/basic,/area/solars/tarkon)
+"n" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/turf/open/space/basic,/area/solars/tarkon)
+"p" = (/turf/closed/mineral/random,/area/ruin/space/has_grav)
+"w" = (/obj/structure/cable,/obj/machinery/power/solar,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
+"x" = (/obj/structure/lattice,/turf/open/space,/area/solars/tarkon)
+"y" = (/obj/item/solar_assembly,/obj/structure/cable,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
+"z" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/mob/living/basic/carp,/turf/open/space/basic,/area/solars/tarkon)
+"L" = (/obj/structure/lattice/catwalk,/turf/open/space,/area/solars/tarkon)
+"T" = (/obj/structure/lattice/catwalk,/turf/open/space/basic,/area/solars/tarkon)
+"U" = (/obj/structure/lattice,/mob/living/basic/carp,/turf/open/space/basic,/area/solars/tarkon)
+"V" = (/obj/structure/lattice,/turf/open/space/basic,/area/solars/tarkon)
+"Z" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/turf/open/space,/area/solars/tarkon)
+
+(1,1,1) = {"
+aaaaawaaalaaacaaaaa
+aaaaanwVVnVVcTcaaaa
+aaaaVTVaanaacTcaaaa
+aaaVVTVwxnxccTcccaa
+awnTTjjZZnZZnznnTca
+aawapjppVTxccTyycaa
+aaVapjpppTwacTcaVaa
+aaVaVnpppTwacTVaVaa
+accccnmVwTwVVTyyyya
+bTTTTnnnTTTTTTkTTTy
+accccnVVwTwVVTyyyya
+aaVaUnwawTwawTVaVaa
+aaVawnwawTwawnyaVaa
+aawwwTwwxTxwwnyyyaa
+ayTnTTTLLTLLTTTnnya
+aawwwTwwxTxyynyyyaa
+aaaawnwaaTaaynyaaaa
+aaaawnwVmnVVyTyaaaa
+aaaaayaaanaaayaaaaa
+"}
