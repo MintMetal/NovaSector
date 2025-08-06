@@ -13980,7 +13980,7 @@
 /obj/machinery/door/airlock/external/glass,
 /obj/effect/mapping_helpers/airlock/access/all/tarkon/general,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper_multi{
-	cycle_id = external-ai-tarkon
+	cycle_id = externalaitarkon
 	},
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/port_tarkon/comms)
