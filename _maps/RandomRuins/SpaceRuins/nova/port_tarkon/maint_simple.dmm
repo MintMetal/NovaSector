@@ -56,6 +56,7 @@
 "I" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
     dir = 8
+
     },
 /turf/open/floor/plating,
 /area/template_noop)
