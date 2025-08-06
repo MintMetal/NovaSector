@@ -1,21 +1,84 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"a" = (/obj/structure/lattice/catwalk,/turf/open/space/basic,/area/solars/tarkon)
-"d" = (/obj/structure/lattice,/turf/open/space,/area/solars/tarkon)
-"i" = (/obj/machinery/power/tracker,/obj/structure/cable,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
-"j" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/turf/open/space,/area/solars/tarkon)
-"l" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/turf/open/space/basic,/area/solars/tarkon)
-"v" = (/obj/structure/lattice/catwalk,/mob/living/basic/carp,/turf/open/space/basic,/area/solars/tarkon)
-"w" = (/obj/structure/cable,/obj/machinery/power/solar,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
-"A" = (/obj/structure/cable,/mob/living/basic/carp,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
-"B" = (/obj/structure/lattice,/mob/living/basic/carp,/turf/open/space/basic,/area/solars/tarkon)
-"E" = (/obj/structure/lattice,/turf/open/space/basic,/area/solars/tarkon)
-"L" = (/obj/structure/lattice/catwalk,/obj/effect/mob_spawn/corpse/human/engineer/mod,/turf/open/space/basic,/area/solars/tarkon)
-"M" = (/obj/structure/cable,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
-"N" = (/obj/structure/lattice,/obj/item/stack/cable_coil/thirty,/turf/open/space/basic,/area/solars/tarkon)
-"Q" = (/obj/structure/lattice/catwalk,/turf/open/space,/area/solars/tarkon)
-"S" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/mob/living/basic/carp,/turf/open/space/basic,/area/solars/tarkon)
-"X" = (/turf/template_noop,/area/template_noop)
-"Y" = (/obj/structure/cable,/obj/machinery/power/solar,/obj/modular_map_connector,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
+"a" = (
+/obj/structure/lattice/catwalk,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"d" = (
+/obj/structure/lattice,
+/turf/open/space,
+/area/solars/tarkon)
+"i" = (
+/obj/machinery/power/tracker,
+/obj/structure/cable,
+/turf/open/floor/iron/solarpanel/airless,
+/area/solars/tarkon)
+"j" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable,
+/turf/open/space,
+/area/solars/tarkon)
+"l" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"v" = (
+/obj/structure/lattice/catwalk,
+/mob/living/basic/carp,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"w" = (
+/obj/structure/cable,
+/obj/machinery/power/solar,
+/turf/open/floor/iron/solarpanel/airless,
+/area/solars/tarkon)
+"A" = (
+/obj/structure/cable,
+/mob/living/basic/carp,
+/turf/open/floor/iron/solarpanel/airless,
+/area/solars/tarkon)
+"B" = (
+/obj/structure/lattice,
+/mob/living/basic/carp,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"E" = (
+/obj/structure/lattice,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"L" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/mob_spawn/corpse/human/engineer/mod,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"M" = (
+/obj/structure/cable,
+/turf/open/floor/iron/solarpanel/airless,
+/area/solars/tarkon)
+"N" = (
+/obj/structure/lattice,
+/obj/item/stack/cable_coil/thirty,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"Q" = (
+/obj/structure/lattice/catwalk,
+/turf/open/space,
+/area/solars/tarkon)
+"S" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable,
+/mob/living/basic/carp,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"X" = (
+/turf/template_noop,
+/area/template_noop)
+"Y" = (
+/obj/structure/cable,
+/obj/machinery/power/solar,
+/obj/modular_map_connector,
+/turf/open/floor/iron/solarpanel/airless,
+/area/solars/tarkon)
 
 (1,1,1) = {"
 XXXXXwXXXiXXXwXXXXX

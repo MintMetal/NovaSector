@@ -1,23 +1,93 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"a" = (/turf/template_noop,/area/template_noop)
-"b" = (/obj/structure/lattice/catwalk,/obj/item/storage/toolbox/electrical,/turf/open/space/basic,/area/solars/tarkon)
-"c" = (/obj/structure/lattice,/mob/living/basic/carp,/turf/open/space/basic,/area/solars/tarkon)
-"e" = (/obj/machinery/power/tracker,/obj/structure/cable,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
-"i" = (/obj/structure/lattice,/turf/open/space,/area/solars/tarkon)
-"t" = (/obj/structure/lattice,/turf/open/space/basic,/area/solars/tarkon)
-"w" = (/obj/structure/lattice/catwalk,/obj/item/stack/cable_coil/five,/turf/open/space/basic,/area/solars/tarkon)
-"x" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/obj/item/stack/cable_coil/five,/turf/open/space/basic,/area/solars/tarkon)
-"y" = (/obj/structure/lattice/catwalk,/obj/item/stack/cable_coil/five,/turf/open/space,/area/solars/tarkon)
-"A" = (/obj/structure/lattice/catwalk,/turf/open/space/basic,/area/solars/tarkon)
-"C" = (/obj/structure/lattice/catwalk,/obj/item/stack/tile/iron/solarpanel{amount = 56},/turf/open/space/basic,/area/solars/tarkon)
-"G" = (/obj/structure/cable,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
-"H" = (/obj/structure/lattice/catwalk,/obj/item/stack/cable_coil/five,/obj/structure/cable,/turf/open/space/basic,/area/solars/tarkon)
-"N" = (/obj/structure/cable,/obj/machinery/power/solar,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
-"Q" = (/obj/modular_map_connector,/turf/template_noop,/area/template_noop)
-"S" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/turf/open/space,/area/solars/tarkon)
-"W" = (/obj/structure/lattice/catwalk,/obj/structure/cable,/turf/open/space/basic,/area/solars/tarkon)
-"Y" = (/obj/structure/lattice/catwalk,/turf/open/space,/area/solars/tarkon)
-"Z" = (/obj/item/solar_assembly,/obj/structure/cable,/turf/open/floor/iron/solarpanel/airless,/area/solars/tarkon)
+"a" = (
+/turf/template_noop,
+/area/template_noop)
+"b" = (
+/obj/structure/lattice/catwalk,
+/obj/item/storage/toolbox/electrical,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"c" = (
+/obj/structure/lattice,
+/mob/living/basic/carp,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"e" = (
+/obj/machinery/power/tracker,
+/obj/structure/cable,
+/turf/open/floor/iron/solarpanel/airless,
+/area/solars/tarkon)
+"i" = (
+/obj/structure/lattice,
+/turf/open/space,
+/area/solars/tarkon)
+"t" = (
+/obj/structure/lattice,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"w" = (
+/obj/structure/lattice/catwalk,
+/obj/item/stack/cable_coil/five,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"x" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable,
+/obj/item/stack/cable_coil/five,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"y" = (
+/obj/structure/lattice/catwalk,
+/obj/item/stack/cable_coil/five,
+/turf/open/space,
+/area/solars/tarkon)
+"A" = (
+/obj/structure/lattice/catwalk,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"C" = (
+/obj/structure/lattice/catwalk,
+/obj/item/stack/tile/iron/solarpanel{amount = 56},
+/turf/open/space/basic,
+/area/solars/tarkon)
+"G" = (
+/obj/structure/cable,
+/turf/open/floor/iron/solarpanel/airless,
+/area/solars/tarkon)
+"H" = (
+/obj/structure/lattice/catwalk,
+/obj/item/stack/cable_coil/five,
+/obj/structure/cable,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"N" = (
+/obj/structure/cable,
+/obj/machinery/power/solar,
+/turf/open/floor/iron/solarpanel/airless,
+/area/solars/tarkon)
+"Q" = (
+/obj/modular_map_connector,
+/turf/template_noop,
+/area/template_noop)
+"S" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable,
+/turf/open/space,
+/area/solars/tarkon)
+"W" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable,
+/turf/open/space/basic,
+/area/solars/tarkon)
+"Y" = (
+/obj/structure/lattice/catwalk,
+/turf/open/space,
+/area/solars/tarkon)
+"Z" = (
+/obj/item/solar_assembly,
+/obj/structure/cable,
+/turf/open/floor/iron/solarpanel/airless,
+/area/solars/tarkon)
 
 (1,1,1) = {"
 aaaaaaaaaeaaaNaaaaa
