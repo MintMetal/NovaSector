@@ -14,13 +14,11 @@
 /obj/structure/closet/crate,
 /obj/effect/decal/cleanable/cobweb/cobweb2,
 /obj/item/stack/ore/iron{
-    amount = 6
-
-    },
+	amount = 6
+	},
 /obj/item/stack/ore/glass/basalt{
-    amount = 8
-
-    },
+	amount = 8
+	},
 /obj/item/stack/sheet/mineral/coal,
 /turf/open/floor/grass,
 /area/template_noop)
@@ -42,18 +40,16 @@
 /area/template_noop)
 "Q" = (
 /obj/effect/turf_decal/weather/dirt{
-    dir = 1
-
-    },
+	dir = 1
+	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
 /turf/open/floor/grass,
 /area/template_noop)
 "T" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
-    dir = 8
-
-    },
+	dir = 8
+	},
 /turf/open/floor/grass,
 /area/template_noop)
 "X" = (
@@ -64,9 +60,8 @@
 /area/template_noop)
 "Z" = (
 /obj/effect/turf_decal/weather/dirt{
-    dir = 9
-
-    },
+	dir = 9
+	},
 /obj/structure/flora/grass/jungle,
 /turf/open/floor/grass,
 /area/template_noop)

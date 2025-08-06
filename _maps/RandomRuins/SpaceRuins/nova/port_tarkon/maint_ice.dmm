@@ -6,28 +6,24 @@
 /area/template_noop)
 "b" = (
 /obj/effect/turf_decal/weather/snow/corner{
-    dir = 5
-
-    },
+	dir = 5
+	},
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
 /turf/open/floor/wood,
 /area/template_noop)
 "g" = (
 /obj/item/toy/plush/lizard_plushie/greyscale{
-    pixel_x = 8;
-    pixel_y = -4;
-    name = "Secret-Chiller"
-
-    },
+	pixel_x = 8;
+	pixel_y = -4;
+	name = "Secret-Chiller"
+	},
 /obj/item/toy/snowball{
-    pixel_y = -11
-
-    },
+	pixel_y = -11
+	},
 /obj/item/toy/snowball{
-    pixel_y = -13;
-    pixel_x = 9
-
-    },
+	pixel_y = -13;
+	pixel_x = 9
+	},
 /turf/open/misc/asteroid/snow/standard_air,
 /area/template_noop)
 "k" = (
@@ -56,13 +52,11 @@
 /area/template_noop)
 "z" = (
 /obj/effect/turf_decal/weather/snow/corner{
-    dir = 1
-
-    },
+	dir = 1
+	},
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
-    dir = 8
-
-    },
+	dir = 8
+	},
 /turf/open/floor/wood,
 /area/template_noop)
 "C" = (
