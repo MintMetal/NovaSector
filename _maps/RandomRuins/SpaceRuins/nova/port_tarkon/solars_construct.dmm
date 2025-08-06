@@ -47,7 +47,9 @@
 /area/solars/tarkon)
 "C" = (
 /obj/structure/lattice/catwalk,
-/obj/item/stack/tile/iron/solarpanel{amount = 56},
+/obj/item/stack/tile/iron/solarpanel{
+    amount = 56
+    },
 /turf/open/space/basic,
 /area/solars/tarkon)
 "G" = (

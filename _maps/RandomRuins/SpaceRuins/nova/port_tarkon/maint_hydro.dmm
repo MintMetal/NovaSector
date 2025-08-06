@@ -35,7 +35,9 @@
 /area/template_noop)
 "y" = (
 /obj/effect/spawner/random/maintenance/two,
-/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{dir = 8},
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+    dir = 8
+    },
 /turf/open/floor/plating,
 /area/template_noop)
 "D" = (
@@ -88,11 +90,29 @@
 /area/template_noop)
 
 (1,1,1) = {"
-gYo
-rpo
-sDo
-ZXo
-tKo
-Nao
-RyJ
+g
+r
+s
+Z
+t
+N
+R
+"}
+(2,1,1) = {"
+Y
+p
+D
+X
+K
+a
+y
+"}
+(3,1,1) = {"
+o
+o
+o
+o
+o
+o
+J
 "}
