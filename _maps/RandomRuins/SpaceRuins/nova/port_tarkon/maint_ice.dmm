@@ -65,7 +65,7 @@
 /area/template_noop)
 "E" = (
 /obj/structure/bonfire,
-/turf/open/floor/plating/snowed/smoothed,
+/turf/open/misc/asteroid/snow/standard_air,
 /area/template_noop)
 "J" = (
 /turf/template_noop,
@@ -81,14 +81,11 @@
 /obj/structure/flora/rock/icy/style_2,
 /turf/open/misc/asteroid/snow/standard_air,
 /area/template_noop)
-"V" = (
-/turf/open/floor/plating/snowed/smoothed,
-/area/template_noop)
 
 (1,1,1) = {"
 L
 E
-V
+N
 w
 n
 b
