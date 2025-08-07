@@ -301,10 +301,6 @@
 /obj/structure/noticeboard/directional/south,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/port_tarkon/kitchen)
-"aZ" = (
-/obj/machinery/camera/directional/east,
-/turf/open/floor/plating/reinforced,
-/area/ruin/space/has_grav/port_tarkon/cargo)
 "ba" = (
 /obj/effect/turf_decal/tile/purple/half,
 /obj/machinery/mech_bay_recharge_port,
@@ -486,15 +482,6 @@
 	},
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/port_tarkon/trauma)
-"bR" = (
-/obj/effect/turf_decal/tile/brown/half{
-	dir = 4
-	},
-/obj/machinery/computer/cargo/express/interdyne/tarkon{
-	dir = 8
-	},
-/turf/open/floor/iron,
-/area/ruin/space/has_grav/port_tarkon/cargo)
 "bS" = (
 /obj/effect/turf_decal/tile/neutral/half{
 	dir = 8
@@ -1304,9 +1291,6 @@
 /turf/open/floor/grass,
 /area/ruin/space/has_grav/port_tarkon/park)
 "eX" = (
-/obj/effect/turf_decal/tile/brown{
-	dir = 4
-	},
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/cargo)
@@ -3036,21 +3020,6 @@
 	},
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/port_tarkon/developement)
-"lj" = (
-/obj/effect/turf_decal/tile/brown/half{
-	dir = 4
-	},
-/obj/structure/table/reinforced,
-/obj/item/paper{
-	default_raw_text = "There was a few shipping crates that were left unchecked. Ive emptied out the boxes they held here. Hopefully you can get them where they have to go. Under no circumstances are you to open these orders. Last thing we need is to be seen as picking sides in this conflict.";
-	name = "Shipping Report - OVERDUE"
-	},
-/obj/item/stack/spacecash/c200{
-	pixel_y = 14
-	},
-/obj/item/card/id/departmental_budget/tarkon,
-/turf/open/floor/iron,
-/area/ruin/space/has_grav/port_tarkon/cargo)
 "lo" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/iron/dark,
@@ -4207,12 +4176,9 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/atmos)
 "pE" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment,
 /turf/open/floor/iron,
-/area/ruin/space/has_grav/port_tarkon/centerhall)
+/area/ruin/space/has_grav/port_tarkon/cargo)
 "pF" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -5245,12 +5211,16 @@
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/port_tarkon/sciencehall)
 "tQ" = (
+/obj/item/encryptionkey/headset_cargo/tarkon,
+/obj/item/encryptionkey/headset_cargo/tarkon,
+/obj/item/encryptionkey/headset_cargo/tarkon,
+/obj/item/encryptionkey/headset_cargo/tarkon,
+/obj/item/encryptionkey/headset_cargo/tarkon,
 /obj/structure/table/reinforced,
-/obj/item/paper{
-	default_raw_text = "I think we've done it. We have made a machine that allows you to upload a version of your conciousness INTO the game. With this new groundbreaking technology, we should be able to be more self-sufficent, and safe from the rising tensions around us. Better than stepping on toes at least. Now all we have left is to improve our helmet and integration system. The casualties have been too high, and that wont be comercially viable.";
-	name = "Project Runner Development"
+/obj/effect/turf_decal/tile/brown/anticorner{
+	dir = 4
 	},
-/turf/open/floor/plating/reinforced,
+/turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/cargo)
 "tS" = (
 /turf/open/floor/plating,
@@ -6512,14 +6482,6 @@
 	},
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/mining)
-"yi" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/turf_decal/tile/brown/half{
-	dir = 1
-	},
-/turf/open/floor/iron,
-/area/ruin/space/has_grav/port_tarkon/cargo)
 "yj" = (
 /obj/effect/turf_decal/tile/purple/half{
 	dir = 1
@@ -7187,16 +7149,11 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/porthall)
 "AG" = (
-/obj/structure/safe/floor,
-/obj/item/bitrunning_disk/prefs,
-/obj/item/bitrunning_disk/prefs,
-/obj/item/bitrunning_disk/prefs,
-/obj/item/bitrunning_disk/prefs,
-/obj/item/circuitboard/computer/order_console/bitrunning,
-/obj/item/market_uplink/blackmarket,
-/obj/effect/turf_decal/tile/brown/half{
-	dir = 1
+/obj/effect/turf_decal/tile/brown/half,
+/obj/structure/disposalpipe/segment{
+	dir = 4
 	},
+/obj/machinery/firealarm/directional/south,
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/cargo)
 "AI" = (
@@ -8573,7 +8530,14 @@
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/mining)
 "FH" = (
-/turf/open/floor/plating/reinforced,
+/obj/effect/turf_decal/tile/brown/half{
+	dir = 4
+	},
+/obj/machinery/computer/cargo/express/interdyne/tarkon{
+	dir = 8
+	},
+/obj/machinery/camera/directional/east,
+/turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/cargo)
 "FL" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -8831,10 +8795,6 @@
 	},
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/port_tarkon/atmos)
-"GH" = (
-/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
-/turf/open/floor/plating/reinforced,
-/area/ruin/space/has_grav/port_tarkon/cargo)
 "GI" = (
 /obj/machinery/light/directional/west,
 /obj/structure/chair/sofa/left{
@@ -9101,18 +9061,6 @@
 /obj/effect/mapping_helpers/mob_buckler,
 /turf/open/floor/wood/large,
 /area/ruin/space/has_grav/port_tarkon/apartment)
-"HF" = (
-/obj/machinery/door/airlock/mining{
-	name = "Cargo Airlock"
-	},
-/obj/machinery/door/firedoor/solid,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/iron,
-/area/ruin/space/has_grav/port_tarkon/cargo)
 "HG" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 1
@@ -9707,8 +9655,20 @@
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/port_tarkon/viro)
 "JU" = (
-/obj/machinery/quantum_server,
-/turf/open/floor/plating/reinforced,
+/obj/effect/turf_decal/tile/brown/half{
+	dir = 4
+	},
+/obj/structure/table/reinforced,
+/obj/item/paper{
+	default_raw_text = "There was a few shipping crates that were left unchecked. Ive emptied out the boxes they held here. Hopefully you can get them where they have to go. Under no circumstances are you to open these orders. Last thing we need is to be seen as picking sides in this conflict.";
+	name = "Shipping Report - OVERDUE"
+	},
+/obj/item/stack/spacecash/c200{
+	pixel_y = 14
+	},
+/obj/item/card/id/departmental_budget/tarkon,
+/obj/machinery/light/directional/east,
+/turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/cargo)
 "JV" = (
 /obj/effect/turf_decal/tile/brown/anticorner{
@@ -12245,13 +12205,6 @@
 /obj/machinery/door/airlock/atmos/glass,
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/atmos)
-"Te" = (
-/obj/machinery/light/directional/west{
-	dir = 1
-	},
-/obj/structure/frame/computer,
-/turf/open/floor/plating/reinforced,
-/area/ruin/space/has_grav/port_tarkon/cargo)
 "Tf" = (
 /obj/effect/turf_decal/tile/blue/opposingcorners,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
@@ -12330,15 +12283,6 @@
 /area/ruin/space/has_grav/port_tarkon/centerhall)
 "Tu" = (
 /obj/effect/turf_decal/tile/brown,
-/turf/open/floor/iron,
-/area/ruin/space/has_grav/port_tarkon/cargo)
-"Tv" = (
-/obj/item/encryptionkey/headset_cargo/tarkon,
-/obj/item/encryptionkey/headset_cargo/tarkon,
-/obj/item/encryptionkey/headset_cargo/tarkon,
-/obj/item/encryptionkey/headset_cargo/tarkon,
-/obj/item/encryptionkey/headset_cargo/tarkon,
-/obj/structure/table/reinforced,
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/cargo)
 "Tx" = (
@@ -13643,6 +13587,7 @@
 /obj/item/tape/ruins/tarkon/celebration,
 /obj/structure/safe/floor,
 /obj/item/reagent_containers/cup/glass/bottle/absinthe/premium,
+/obj/item/market_uplink/blackmarket,
 /turf/open/floor/iron/dark/smooth_large,
 /area/ruin/space/has_grav/port_tarkon/apartment)
 "Yr" = (
@@ -13680,11 +13625,6 @@
 /obj/machinery/door/firedoor/solid,
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/lounge)
-"Yz" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
-/turf/open/floor/plating/reinforced,
-/area/ruin/space/has_grav/port_tarkon/cargo)
 "YA" = (
 /obj/machinery/light/directional/west,
 /obj/effect/turf_decal/tile/purple/half{
@@ -19642,7 +19582,7 @@ Ty
 IQ
 Nb
 yI
-pE
+FW
 au
 qd
 TS
@@ -20083,12 +20023,12 @@ nF
 GA
 PQ
 of
-pE
-pE
-pE
+FW
+FW
+FW
 dQ
-pE
-pE
+FW
+FW
 Dv
 of
 vE
@@ -20112,7 +20052,7 @@ En
 En
 bG
 jN
-Yg
+HX
 zq
 zq
 zq
@@ -20204,10 +20144,10 @@ jU
 OM
 is
 AR
-Tv
-XE
-bR
-lj
+Iy
+zq
+zq
+zq
 eX
 nK
 zq
@@ -20296,14 +20236,14 @@ AP
 AP
 JV
 AR
-Og
-Og
-Og
-jN
-AG
-nK
+Yg
 zq
-vF
+zq
+zq
+zq
+pE
+zq
+AG
 ph
 Ua
 Bc
@@ -20389,12 +20329,12 @@ Zy
 LC
 AR
 tQ
+XE
 FH
-FH
-jN
-Iy
-nK
-zq
+JU
+yV
+pE
+BK
 tV
 ph
 Ua
@@ -20446,9 +20386,9 @@ Ru
 Ru
 FW
 Dv
-pE
-pE
-pE
+FW
+FW
+FW
 iy
 Tt
 HL
@@ -20480,13 +20420,13 @@ aP
 aP
 Cd
 AR
-Te
-GH
-Yz
-HF
-yi
-qr
-BK
+Ib
+Ib
+Ib
+Ib
+HX
+zq
+zq
 vF
 ph
 GB
@@ -20572,10 +20512,10 @@ ZP
 Ab
 Fw
 AR
-JU
-FH
-aZ
-jN
+fR
+fR
+LK
+Ib
 gH
 il
 En
@@ -20664,9 +20604,9 @@ Zv
 Zv
 Zv
 Zv
-Ib
-Ib
-Ib
+fR
+fR
+LK
 Ib
 Ib
 Ib
