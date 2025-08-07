@@ -144,8 +144,6 @@
 	default_gravity = STANDARD_GRAVITY
 	outdoors = TRUE
 
-// Tarkon additional areas
-
 /area/ruin/space/has_grav/port_tarkon/viro
 	name = "P-T Virology Center"
 	icon_state = "virology"
@@ -189,8 +187,6 @@
 /area/ruin/space/has_grav/port_tarkon/aiante
 	name = "P-T AI Antechamber"
 	icon_state = "ai"
-
-// Tarkon additional areas end
 
 /**
  * DS2 Syndie Areas
