@@ -401,7 +401,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/disposalpipe/segment,
-/obj/structure/spawner/tarkon_xenos/common,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/port_tarkon/viro)
 "bw" = (
@@ -1314,7 +1313,7 @@
 "fa" = (
 /obj/effect/mapping_helpers/broken_floor,
 /obj/structure/alien/weeds/node,
-/obj/structure/spawner/tarkon_xenos/common,
+/obj/structure/spawner/tarkon_xenos/minor,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/port_tarkon/sciencexp)
 "fb" = (
@@ -3067,10 +3066,6 @@
 /obj/effect/mapping_helpers/mob_buckler,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/port_tarkon/viro)
-"lu" = (
-/obj/structure/spawner/tarkon_xenos/minor,
-/turf/open/floor/iron/dark,
-/area/ruin/space/has_grav/port_tarkon/sciencexp)
 "lv" = (
 /obj/machinery/light/directional/east,
 /obj/effect/turf_decal/tile/purple/half{
@@ -4517,10 +4512,6 @@
 	},
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/porthall)
-"qM" = (
-/obj/structure/spawner/tarkon_xenos/common,
-/turf/open/floor/iron/white,
-/area/ruin/space/has_grav/port_tarkon/viro)
 "qN" = (
 /obj/effect/turf_decal/tile/blue,
 /turf/open/floor/iron/dark,
@@ -5169,7 +5160,7 @@
 /area/ruin/space/has_grav/port_tarkon/comms)
 "ty" = (
 /obj/item/shard,
-/obj/structure/spawner/tarkon_xenos/common,
+/obj/structure/spawner/tarkon_xenos/minor,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/port_tarkon/viro)
 "tA" = (
@@ -6368,7 +6359,7 @@
 /area/ruin/space/has_grav/port_tarkon/comms)
 "xB" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
-/obj/structure/alien/resin,
+/obj/structure/alien/resin/membrane,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/port_tarkon/comms)
 "xD" = (
@@ -7269,11 +7260,6 @@
 	},
 /turf/open/floor/wood/large,
 /area/ruin/space/has_grav/port_tarkon/sauna)
-"AZ" = (
-/obj/structure/alien/resin/membrane,
-/obj/structure/cable/layer3,
-/turf/open/floor/plating,
-/area/ruin/space/has_grav/port_tarkon/aiante)
 "Ba" = (
 /obj/effect/turf_decal/tile/neutral/half/contrasted{
 	dir = 4
@@ -8435,10 +8421,6 @@
 	},
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/storage)
-"Fh" = (
-/obj/structure/alien/resin,
-/turf/open/floor/plating,
-/area/ruin/space/has_grav/port_tarkon/comms)
 "Fi" = (
 /obj/structure/alien/weeds/node,
 /obj/structure/spawner/tarkon_xenos/common,
@@ -9534,6 +9516,7 @@
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
+/obj/structure/spawner/tarkon_xenos/common,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/port_tarkon/viro)
 "Jn" = (
@@ -9590,7 +9573,7 @@
 /area/ruin/space/has_grav/port_tarkon/kitchen)
 "Jy" = (
 /obj/structure/cable/layer3,
-/obj/structure/alien/resin/membrane,
+/obj/structure/alien/resin,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/port_tarkon/aiante)
 "Jz" = (
@@ -9920,9 +9903,6 @@
 /obj/machinery/camera/directional/south,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/port_tarkon/comms)
-"KH" = (
-/turf/open/misc/asteroid/dug,
-/area/ruin/space/has_grav)
 "KI" = (
 /obj/machinery/recharge_station,
 /turf/open/floor/iron/dark,
@@ -12148,7 +12128,7 @@
 /turf/closed/wall/r_wall,
 /area/ruin/space/has_grav/port_tarkon/storage)
 "SI" = (
-/obj/structure/spawner/tarkon_xenos/common,
+/obj/structure/spawner/tarkon_xenos/minor,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/port_tarkon/aiante)
 "SJ" = (
@@ -14717,7 +14697,7 @@ fR
 LK
 fR
 kN
-KH
+kN
 kN
 kN
 kN
@@ -15274,7 +15254,7 @@ kN
 kN
 kN
 rL
-KH
+kN
 fR
 fR
 LK
@@ -15788,7 +15768,7 @@ cA
 ve
 cU
 HO
-lu
+HO
 Ao
 ve
 DG
@@ -16314,7 +16294,7 @@ wq
 wq
 cZ
 sZ
-qM
+ZA
 EX
 ZA
 qi
@@ -18676,7 +18656,7 @@ QP
 QP
 tK
 tK
-lz
+GV
 QP
 QP
 go
@@ -18858,7 +18838,7 @@ QP
 GV
 QP
 Pm
-Lf
+QP
 QP
 QP
 Pm
@@ -21195,7 +21175,7 @@ kN
 kN
 fb
 Hj
-Fh
+Lu
 tE
 kj
 TV
@@ -21287,7 +21267,7 @@ iU
 HK
 Sg
 Hj
-Fh
+Lu
 Mg
 kj
 vU
@@ -21748,7 +21728,7 @@ kN
 Yt
 ee
 cL
-AZ
+Jy
 Lg
 Ju
 Lg

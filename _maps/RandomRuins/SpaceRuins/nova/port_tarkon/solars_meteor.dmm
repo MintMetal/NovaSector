@@ -14,7 +14,7 @@
 "j" = (
 /obj/effect/turf_decal/sand/plating,
 /obj/structure/cable,
-/turf/open/floor/plating,
+/turf/open/floor/plating/airless,
 /area/ruin/space/has_grav)
 "k" = (
 /obj/structure/lattice/catwalk,
