@@ -89,6 +89,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
+/obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/port_tarkon/sciencexp)
 "an" = (
@@ -208,6 +209,15 @@
 "aD" = (
 /turf/closed/wall/r_wall,
 /area/ruin/space/has_grav/port_tarkon/apartment)
+"aE" = (
+/obj/machinery/light/directional/south,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/port_tarkon/sciencexp)
+"aF" = (
+/obj/machinery/airalarm/directional/east,
+/obj/effect/mapping_helpers/airalarm/all_access,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/port_tarkon/aiante)
 "aG" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -1261,6 +1271,15 @@
 	},
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/port_tarkon/trauma)
+"eS" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/obj/structure/disposalpipe/segment{
+	dir = 9
+	},
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/port_tarkon/centerhall)
 "eT" = (
 /obj/structure/safe/floor,
 /obj/item/mod/module/armor_booster/retractplates{
@@ -1332,6 +1351,13 @@
 "fd" = (
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/secoff)
+"fe" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/disposalpipe/junction/flip,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/port_tarkon/centerhall)
 "ff" = (
 /obj/machinery/door/airlock/public/glass{
 	name = "Fore Primary Hallway"
@@ -1800,6 +1826,9 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/disposalpipe/segment{
+	dir = 6
+	},
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/centerhall)
 "gK" = (
@@ -1819,6 +1848,13 @@
 	},
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/port_tarkon/aichamber)
+"gO" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/obj/structure/disposalpipe/segment,
+/turf/open/floor/iron/dark,
+/area/ruin/space/has_grav/port_tarkon/sciencexp)
 "gP" = (
 /obj/effect/turf_decal/sand/plating,
 /obj/machinery/camera/directional/east,
@@ -1851,6 +1887,12 @@
 /obj/structure/cable,
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/engineering)
+"gV" = (
+/obj/structure/disposalpipe/segment{
+	dir = 6
+	},
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/port_tarkon/centerhall)
 "gW" = (
 /obj/effect/turf_decal/siding/wood,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
@@ -2209,7 +2251,6 @@
 /obj/item/stack/sheet/mineral/plasma{
 	amount = 5
 	},
-/obj/machinery/light/directional/south,
 /obj/effect/turf_decal/tile/purple/half/contrasted{
 	dir = 4
 	},
@@ -3532,6 +3573,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /obj/structure/alien/resin/wall,
+/obj/structure/disposalpipe/segment,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/port_tarkon/sciencexp)
 "nd" = (
@@ -4741,6 +4783,9 @@
 	},
 /obj/machinery/light/directional/north,
 /obj/structure/extinguisher_cabinet/directional/north,
+/obj/structure/disposalpipe/segment{
+	dir = 10
+	},
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/port_tarkon/sciencexp)
 "rE" = (
@@ -5429,6 +5474,10 @@
 /obj/effect/turf_decal/tile/purple/anticorner{
 	dir = 1
 	},
+/obj/structure/disposalpipe/trunk{
+	dir = 4
+	},
+/obj/machinery/disposal/bin,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/port_tarkon/sciencexp)
 "uG" = (
@@ -6208,6 +6257,7 @@
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 8
 	},
+/obj/machinery/light/directional/east,
 /turf/open/floor/iron/dark/textured_half{
 	dir = 1
 	},
@@ -7110,7 +7160,6 @@
 /area/ruin/space/has_grav/port_tarkon/cargo)
 "Aw" = (
 /obj/effect/turf_decal/stripes/red/line,
-/obj/machinery/light/directional/south,
 /obj/structure/alien/egg/burst,
 /turf/open/floor/iron/dark/textured_half,
 /area/ruin/space/has_grav/port_tarkon/sciencexp)
@@ -7203,10 +7252,10 @@
 "AM" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
 /obj/structure/cable,
+/obj/structure/disposalpipe/junction/yjunction{
+	dir = 4
+	},
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/port_tarkon/sciencexp)
 "AN" = (
@@ -8522,6 +8571,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
+/obj/structure/disposalpipe/segment,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/port_tarkon/sciencexp)
 "FE" = (
@@ -8655,6 +8705,9 @@
 /obj/structure/cable,
 /obj/effect/turf_decal/tile/neutral/half/contrasted{
 	dir = 4
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 9
 	},
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/port_tarkon/centerhall)
@@ -9153,6 +9206,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/effect/mapping_helpers/broken_floor,
 /obj/structure/cable,
+/obj/structure/disposalpipe/segment,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/port_tarkon/sciencexp)
 "HW" = (
@@ -9875,6 +9929,8 @@
 /obj/effect/turf_decal/tile/blue/half{
 	dir = 4
 	},
+/obj/machinery/airalarm/directional/east,
+/obj/effect/mapping_helpers/airalarm/all_access,
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/port_tarkon/comms)
 "KB" = (
@@ -11668,10 +11724,7 @@
 	dir = 4
 	},
 /obj/structure/table,
-/obj/machinery/microwave{
-	pixel_x = -3;
-	pixel_y = 6
-	},
+/obj/machinery/microwave,
 /obj/machinery/light/directional/east,
 /obj/machinery/camera/directional/east,
 /turf/open/floor/iron/dark,
@@ -12105,6 +12158,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
+/obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/port_tarkon/sciencexp)
 "SB" = (
@@ -15029,13 +15083,13 @@ wq
 TX
 rD
 HV
-cA
-cA
-cA
+gO
+gO
+gO
 Sy
-cA
-cA
-cA
+gO
+gO
+gO
 nb
 FC
 FC
@@ -15322,7 +15376,7 @@ VS
 DG
 TX
 XT
-jz
+aE
 TX
 fR
 LK
@@ -18994,8 +19048,8 @@ zQ
 xt
 xt
 es
-xt
-xt
+To
+To
 To
 To
 hJ
@@ -19999,8 +20053,8 @@ Vs
 Vs
 qp
 Tc
-nA
-uK
+gV
+eS
 Ys
 LB
 Ar
@@ -20091,9 +20145,9 @@ FW
 FW
 dQ
 FW
-FW
 Dv
-of
+fe
+FW
 vE
 Hn
 Hn
@@ -21545,7 +21599,7 @@ Yt
 Yt
 cL
 Jy
-Lg
+cL
 xG
 ta
 IL
@@ -22097,7 +22151,7 @@ Yt
 Yt
 jE
 nR
-Lg
+aF
 KI
 ta
 up
