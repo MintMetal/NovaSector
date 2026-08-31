@@ -26,6 +26,7 @@
 	family_heirlooms = list(/obj/item/pickaxe/mini, /obj/item/shovel)
 	rpg_title = "Adventurer"
 	job_flags = STATION_JOB_FLAGS
+	tgui_icon = FA_ICON_DIGGING
 
 
 /datum/outfit/job/miner
@@ -41,6 +42,7 @@
 		/obj/item/mining_voucher = 1,
 		/obj/item/suit_voucher = 1, //NOVA EDIT ADDITION
 		/obj/item/stack/marker_beacon/ten = 1,
+		/obj/item/stack/candela_beacon/thirty = 1,
 		/obj/item/t_scanner/adv_mining_scanner/lesser = 1,
 	)
 	belt = /obj/item/modular_computer/pda/shaftminer
@@ -58,6 +60,8 @@
 	box = /obj/item/storage/box/survival/mining
 	chameleon_extras = /obj/item/gun/energy/recharge/kinetic_accelerator
 
+	wintercoat = /obj/item/clothing/suit/hooded/wintercoat/miner
+
 /datum/outfit/job/miner/equipped
 	name = "Shaft Miner (Equipment)"
 
@@ -68,7 +72,7 @@
 		/obj/item/gun/energy/recharge/kinetic_accelerator = 1,
 		/obj/item/knife/combat/survival = 1,
 		/obj/item/mining_voucher = 1,
-		/obj/item/stack/marker_beacon/ten = 1,
+		/obj/item/stack/candela_beacon/thirty = 1,
 		/obj/item/t_scanner/adv_mining_scanner/lesser = 1,
 	)
 	glasses = /obj/item/clothing/glasses/meson
